@@ -26,8 +26,8 @@ Learn to convert a Figma design into code.
 
 **How to Run the Project**
 
-Step1: Clone the repository:
-  git clone https://github.com/Anshikam0905/frontend_assignment.git
-Step2: Go to the project folder:
-  cd frontend_assignment
-Step3: Open index.html in your browser.
+Step1: Clone the repository:<br>
+  git clone https://github.com/Anshikam0905/frontend_assignment.git<br>
+Step2: Go to the project folder: <br>
+  cd frontend_assignment<br>
+Step3: Open index.html in your browser.<br>
